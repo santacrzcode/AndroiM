@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidM</string>
+    <string name="titulo_app">Bienvenue</string>
+    <string name="clic">Cliquez</string>
+
+</resources>
